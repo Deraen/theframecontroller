@@ -18,11 +18,10 @@ bytes after 100ms of silence.
 
 ## Notes
 
-https://www.remotecentral.com/cgi-bin/forums/viewpost.cgi?1412783
-https://www.reddit.com/r/TheFrame/comments/x3hhcf/comment/imqz1p8/?utm_source=reddit&utm_medium=web2x&context=3
-https://docs.google.com/spreadsheets/d/18s25cj1RK-9qR7_ydXHL_P58DpiaWWgu/edit#gid=953994101
-
-https://www.seeedstudio.com/RS-232-To-TTL-Conveter-MAX3232IDR-p-2851.html
-https://support.justaddpower.com/kb/article/16-samsung-rs232-control-exlink/
-https://github.com/phillipsnick/samsung-tv/blob/master/lib/app.js
-https://community.home-assistant.io/t/how-to-uart-read-without-custom-component/491950
+- https://www.remotecentral.com/cgi-bin/forums/viewpost.cgi?1412783
+- https://www.reddit.com/r/TheFrame/comments/x3hhcf/comment/imqz1p8/?utm_source=reddit&utm_medium=web2x&context=3
+- https://docs.google.com/spreadsheets/d/18s25cj1RK-9qR7_ydXHL_P58DpiaWWgu/edit#gid=953994101
+- https://www.seeedstudio.com/RS-232-To-TTL-Conveter-MAX3232IDR-p-2851.html
+- https://support.justaddpower.com/kb/article/16-samsung-rs232-control-exlink/
+- https://github.com/phillipsnick/samsung-tv/blob/master/lib/app.js
+- https://community.home-assistant.io/t/how-to-uart-read-without-custom-component/491950
